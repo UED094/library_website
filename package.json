@@ -1,0 +1,24 @@
+{
+  "name": "library_website",
+  "version": "1.0.0",
+  "description": "This is a library application, which has support for customers, books, publishers, writers etc.",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss/ -o css/ --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UED094/library_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UED094/library_website/issues"
+  },
+  "homepage": "https://github.com/UED094/library_website#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "node-sass": "^8.0.0"
+  }
+}
