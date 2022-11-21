@@ -1,0 +1,20 @@
+.top-bar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.btn-custom4 {
+    border-color: $custom5;
+    color: $custom3;
+}
+
+.btn-custom4:hover {
+    border-color: $custom1;
+    color: $custom2;
+    background-color: $custom5;
+}
+
+.btn-custom4:hover i{
+    color: $custom2;
+    background-color: $custom5;
+}
